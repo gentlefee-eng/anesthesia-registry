@@ -1,1 +1,8 @@
-# anesthesia-registry
+# ทะเบียนวิสัญญี Dashboard
+
+เวอร์ชันนี้เป็น Desktop Dashboard สำหรับเปิดใช้งานบนคอม โดยไม่ฝัง Apps Script ใน iframe แล้ว
+เพื่อลดปัญหา X-Frame-Options และเพิ่มความเสถียรในการเปิดใช้งาน
+
+## ใช้งาน
+- คอม: เปิด GitHub Pages แล้วกดปุ่มเปิดระบบหลัก
+- มือถือ: ใช้ Apps Script ลิงก์เดิมโดยตรง

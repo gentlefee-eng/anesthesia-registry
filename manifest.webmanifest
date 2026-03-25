@@ -1,12 +1,12 @@
 {
-  "name": "ทะเบียนวิสัญญี",
+  "name": "ทะเบียนวิสัญญี Dashboard",
   "short_name": "วิสัญญี",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f5f0ff",
+  "background_color": "#8f74a4",
   "theme_color": "#cba6f7",
-  "description": "PWA สำหรับระบบทะเบียนวิสัญญี",
+  "description": "Desktop dashboard สำหรับระบบทะเบียนวิสัญญี",
   "icons": [
     {
       "src": "icon-192.png",
