@@ -4,9 +4,9 @@
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#aa8fc1",
+  "background_color": "#f5f0ff",
   "theme_color": "#cba6f7",
-  "description": "เปิดระบบทะเบียนวิสัญญีแบบแอป",
+  "description": "PWA สำหรับระบบทะเบียนวิสัญญี",
   "icons": [
     {
       "src": "icon-192.png",
